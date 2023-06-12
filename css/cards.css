@@ -74,7 +74,7 @@
     background-image: url(/imgs/loginDark.png);
 }
 .card .redirecionamento {
-    background-image: url(/imgs/redirecionamento.png);
+    background-image: url(imgs/redirecionamento.png);
     background-position: center; /* fazer a img centralizar no card */
     background-size: cover; /* fazer a imagem se adequar ao tamanho do card */
     width: 360px;
