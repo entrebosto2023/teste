@@ -57,7 +57,7 @@
 }
 
 .card .loginn {
-    background-image: url(/assets/imgs/aspas.png);
+    background-image: url(/teste2/assets/imgs/login.png);
     background-position: center; /* fazer a img centralizar no card */
     background-size: cover; /* fazer a imagem se adequar ao tamanho do card */
     width: 360px;
@@ -72,10 +72,10 @@
 .card:hover .loginn {
     opacity: 1;
     width: 520px;
-    background-image: url(/teste/assets/imgs/login.png);
+    background-image: url(/teste2/assets/imgs/loginDark.png);
 }
 .card .redirecionamento {
-    background-image: url(/My_Portfolio-main/imgs/redirecionamento.png);
+    background-image: url(/teste/assets/imgs/redirecionamento.png);
     background-position: center; /* fazer a img centralizar no card */
     background-size: cover; /* fazer a imagem se adequar ao tamanho do card */
     width: 360px;
